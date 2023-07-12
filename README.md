@@ -1,4 +1,4 @@
-# CLI_workshop
+# Command Line Workshop
 
 Welcome to the 2023 Command Line Workshop! This workshop is being offered to all UTK students, staff, and faculty as an introductory, two day dive into using command line with confidence.
 
